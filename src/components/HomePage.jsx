@@ -55,7 +55,7 @@ const HomePage = () => {
           placeholder="Search Google or type a URL"
           className="flex-1 bg-transparent outline-none px-4 placeholder-gray-500 text-lg"
         />
-        <img src={mic} alt="Mic Icon" className="w-5 mr-3" />
+        {/* <img src={mic} alt="Mic Icon" className="w-5 mr-3" /> */}
       </div>
     </div>
   );
